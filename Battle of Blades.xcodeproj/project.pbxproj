@@ -418,7 +418,7 @@
 				ORGANIZATIONNAME = "KLab Cyscorpions, Inc.";
 				TargetAttributes = {
 					4FEC6DAE19AF1A7600C9DAA8 = {
-						DevelopmentTeam = 59636WNZ2S;
+						DevelopmentTeam = T59E5438VR;
 					};
 					4FEC6DC919AF1A7600C9DAA8 = {
 						TestTargetID = 4FEC6DAE19AF1A7600C9DAA8;
@@ -630,9 +630,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = T59E5438VR;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Battle of Blades/Battle of Blades-Prefix.pch";
 				INFOPLIST_FILE = "Battle of Blades/Battle of Blades-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = com.chase.gosingtian.BattleOfBlades;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -644,9 +646,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = T59E5438VR;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Battle of Blades/Battle of Blades-Prefix.pch";
 				INFOPLIST_FILE = "Battle of Blades/Battle of Blades-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = com.chase.gosingtian.BattleOfBlades;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
